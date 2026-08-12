@@ -19,7 +19,7 @@ Desktop taxi management game built with **Python** and **PyQt5**. You run a cab 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Vako-Farcxa/graphcabs.git
 cd YOUR_REPO
 
 # 2. Create and activate a virtual environment

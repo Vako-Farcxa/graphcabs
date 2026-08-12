@@ -1,0 +1,6 @@
+PyQt5>=5.15
+PyQtWebEngine>=5.15
+folium>=0.16
+osmnx>=1.9
+networkx>=3.0
+Faker>=24.0
